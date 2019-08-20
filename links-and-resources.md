@@ -1,3 +1,3 @@
 ## HTML and CSS
 
-https://internetingishard.com/html-and-css/floats/
+* [Intuitive Beginner Tutorial on HTML and CSS](https://internetingishard.com/html-and-css)
